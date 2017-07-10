@@ -1,0 +1,31 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	font-family: verdana;
+}
+
+.jumbotron {
+	background-color: #CDDEE6;
+}
+
+img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+h4 {
+	color: #286090;
+}
+
+p.lead {
+	margin-top: 10px;
+}
+
+#links {
+	margin-top: 25px;
+}
+
+.well {
+	background-color: #CDDEE6;
+	border-radius: 10px;
+}
